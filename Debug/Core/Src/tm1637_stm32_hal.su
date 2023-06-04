@@ -1,0 +1,14 @@
+../Core/Src/tm1637_stm32_hal.c:23:6:tm1637Init	8	static
+../Core/Src/tm1637_stm32_hal.c:29:6:tm1637SetBrightness	16	static
+../Core/Src/tm1637_stm32_hal.c:42:6:_tm1637Start	8	static
+../Core/Src/tm1637_stm32_hal.c:50:9:tm1637SegmentSwitch	24	static
+../Core/Src/tm1637_stm32_hal.c:270:6:tm1637Display_4_Symbols	32	static
+../Core/Src/tm1637_stm32_hal.c:307:6:tm1637Display_String	32	static
+../Core/Src/tm1637_stm32_hal.c:344:6:_tm1637Stop	8	static
+../Core/Src/tm1637_stm32_hal.c:355:6:_tm1637ReadResult	8	static
+../Core/Src/tm1637_stm32_hal.c:365:6:_tm1637WriteByte	24	static
+../Core/Src/tm1637_stm32_hal.c:393:6:_tm1637DelayUsec	24	static,ignoring_inline_asm
+../Core/Src/tm1637_stm32_hal.c:404:6:_tm1637ClkHigh	8	static
+../Core/Src/tm1637_stm32_hal.c:409:6:_tm1637ClkLow	8	static
+../Core/Src/tm1637_stm32_hal.c:414:6:_tm1637DioHigh	8	static
+../Core/Src/tm1637_stm32_hal.c:419:6:_tm1637DioLow	8	static
